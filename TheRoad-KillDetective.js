@@ -35,7 +35,8 @@
 // Kata Task
 // Even for a professional like me, the identification of flattened exotic animals is not always easy!
 
-// If it ever happens that I can't find all of the remains, or if there are gaps or other parts that I don't recognise, then I record it as ?? in my dead-critter notebook.
+// If it ever happens that I can't find all of the remains, or if there are gaps or other parts that I don't recognise, 
+//then I record it as ?? in my dead-critter notebook.
 
 // What I really need is a program that I can scan my photos into which can give back the correct answer straight away.
 
